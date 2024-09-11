@@ -8,7 +8,7 @@
 - 💝 Delivered 100+ successful projects.
 - ⭐ Top Rated Plus in Upwork
 - ⚡ Portfolio: https://sites.google.com/view/avtarmobdev/portfolio
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://www.paypal.com/paypalme/hbdev/5usd) or [send me some love](https://github.com/sponsors/warengonzaga).
+- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://www.paypal.com/paypalme/hbdev/5usd) or [send me some love](https://github.com/sponsors/avtmob).
 
 
 ## 🔧 Technologies
