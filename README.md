@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&weight=600&size=30&pause=500&color=62F701&width=435&lines=Hi+%F0%9F%91%8B+there;My+name+is+Avtar+Singh;Welcome+to+my+git+profile)](https://git.io/typing-svg)
-
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&weight=600&size=30&pause=1000&color=62F701&width=435&lines=Hi+%F0%9F%91%8B+there;Your+most+welcome;Here+are+my+skills%3A)](https://git.io/typing-svg)
+</p>
 <!--
 **AvtMob/avtmob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
