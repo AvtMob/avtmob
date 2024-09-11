@@ -16,6 +16,12 @@
 <img src="https://skillicons.dev/icons?i=androidstudio,apple,react,dart,swift,kotlin,firebase,git,figma,vscode,html,css,sass,js,ts,nodejs,vue,mongodb,mysql&theme=dark"/>
 </p>
 
+## ⚡ GitHub Awards
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=avtmob)
+
+## 🔥 GitHub Stats
+[![Avtar Github Stats](https://readme-stats.warengonzaga.com/api?username=avtmob&show_icons=true&count_private=true)](https://github.com/avtmob/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=avtmob&layout=compact)](https://github.com/avtmob/github-readme-stats)
+
 <!---
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
