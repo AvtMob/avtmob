@@ -60,9 +60,9 @@ function dirtysuds_embed_pdf( $matches, $atts, $url, $rawattr=null ) {
 	}
 
 	if (is_ssl()) {
-		$embed = '<iframe src="https://sites.google.com/view/'.urlencode($url).'&amp;embedded=true" class="'.$class.'"';
+		$embed = '<iframe src="'.urlencode($url).'&amp;embedded=true" class="'.$class.'"';
 	} else {
-		$embed = '<iframe src="http://sites.google.com/view/'.urlencode($url).'&amp;embedded=true" class="'.$class.'"';
+		$embed = '<iframe src="'.urlencode($url).'&amp;embedded=true" class="'.$class.'"';
 	}
 	if ($id) {
 		$embed .= ' id="'.$id.'"';
